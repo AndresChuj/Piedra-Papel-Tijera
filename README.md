@@ -1,7 +1,7 @@
 # Piedra  papel o tijera
 Este es un juego clásico de piedra papel y tijera, a pesar de los años este es uno de los juegos mas famosas y muy jugado por niños, jóvenes y adultos.
 
-##Inicio del juego
+## Inicio del juego
 - En la parte de arriba tememos a la maquina que es con quíen jugaremos este consiste en un movimiento aleatoria que el algoritmo hace para determinar que opcion tiene nuestro maquina y asi saber si gano perdio o empato.
 
 - En la parte de abajo tenemos el apartado del jugador que tendrá unas opciones a elegir para poder jugar contra la maquina tendrá las opciones de piedra, papel y tijera pues de eso se trata el juego
