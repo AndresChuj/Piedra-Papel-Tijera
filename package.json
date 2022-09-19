@@ -1,0 +1,11 @@
+{
+  "name": "pedrapapeltijera",
+  "version": "1.0.0",
+  "description": "jueguito clásico",
+  "main": "jueguito.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Chuj <chuj2019@outlook.es>",
+  "license": "MIT"
+}

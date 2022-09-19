@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Piedram Pepel o tijera</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Vamos a jugar</h1>
+    <div class="start-game">
+      <img id="maquina" src="./assets/maquina.png" alt="">
+      <h2 class="vrs">vs</h2>
+      <img  id="usuario"  src="./assets/usuario.png" >
+      <div id="answer" class="inactive">
+        <div>
+          <p id="resultado">A jugar</p>
+          <button id="reiniciar">jugar de nuevo</button>
+        </div>
+      </div>
+    </div>
+    <div class="choose-icon">
+      <button id="btnPapel"><img id="papel" src="./assets/papel.png" alt=""></button>
+      <button id="btnPiedra"><img id="piedra" src="./assets/piedra.png" alt=""></button>
+      <button id="btnTijera"><img id="tijera" src="./assets/tijera.png" alt=""></button>
+    </div>
+  </div>
+
+  <script src="jueguito.js"></script>
+</body>
+</html>
