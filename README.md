@@ -13,5 +13,7 @@ Este es un juego clásico de piedra papel y tijera, a pesar de los años este es
 el algoritmo esta construido para determinar si el jugador gana, perde o empata, al momento de escoger una opcion la maquina marcara una opcion retornando un mensaje y un botón para reiniciar el juego si el jugador asi lo desea.
 
 ![perdiste](https://i.postimg.cc/8cBPBPC8/Captura-de-pantalla-12.png "perdiste")
+
 ![ganaste](https://i.postimg.cc/NGynyPz4/Captura-de-pantalla-13.png "ganaste")
+
 ![empate](https://i.postimg.cc/43qzjwQf/Captura-de-pantalla-14.png "empate")
